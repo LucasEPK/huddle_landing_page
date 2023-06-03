@@ -1,1 +1,0 @@
-This site isn't finished, I still need to adjust sizes for desktop.
